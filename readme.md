@@ -5,7 +5,7 @@ This script converts SnagX screenshots to PNG images.
 ## Usage
 
 ```
-python convertsnag.py <input_file_or_directory> [-o <output_file>]
+python convertsnag.py <input_file or wildcard> [-o <output_file>]
 ```
 
 Output file is optional. If not specified, the PNG image will have the same name as the input file, but with a `.png` extension.
