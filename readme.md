@@ -1,6 +1,7 @@
 # Snag to PNG
 
-This script converts SnagX screenshots to PNG images.
+This script converts pulls out the PNG image from a SnagX screenshot file. It does not
+include any of the SnagX metadata or annotations.
 
 ## Usage
 
